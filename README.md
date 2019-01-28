@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-Hello world
-
-this is a project created for learning Git topics (with Platzi)
-
-=======
 # invie-github
-Tus mejores guitarras inviesibles
->>>>>>> origin/master
+Tus mejores guitarras invie-sibles by @schicoma and @platzi
